@@ -1,0 +1,23 @@
+"devops" : {
+  "docker" : "https://github.com/TechBookHunter/Free-Docker-Books"
+},
+"java" : {
+  
+},
+"php" : {
+  
+},
+"javascript" : {
+ "react" : {
+ 
+ },
+ "angular" : {
+ 
+ },
+ "vue" : {
+ 
+ }
+},
+"css" : {
+
+}
